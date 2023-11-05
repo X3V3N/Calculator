@@ -1,0 +1,11 @@
+.topic {
+    font-family: 'Lobster', sans-serif;
+}
+button {
+    font-size: large;
+    border-radius: 5px;
+}
+input {
+    color: red;
+    font-size: 1rem;
+}
